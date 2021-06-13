@@ -5,7 +5,7 @@ import 'package:mvvm_flutter/data/models/pokemon.dart';
 
 class PokemonViewModel {
 
-  final Results pokemon;
+   Results pokemon;
 
   PokemonViewModel({this.pokemon});
 
